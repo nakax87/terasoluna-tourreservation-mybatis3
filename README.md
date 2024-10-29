@@ -24,6 +24,8 @@ Install and start PostgreSQL.
 
 create database 'tourreserve'.
 
+Refer to the [database design document](database-design.md) for the table structures.
+
 #### Insert test data
 
 It is assumed that maven is already installed.
