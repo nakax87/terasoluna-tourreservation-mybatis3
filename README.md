@@ -76,3 +76,7 @@ $ mvn -f terasoluna-tourreservation-selenium/pom.xml clean test
 >
 > If GeckoDriver is not registered in the path, [webdrivermanager](https://github.com/bonigarcia/webdrivermanager) will download it automatically.
 > Configure using [properties](https://github.com/bonigarcia/webdrivermanager#webdrivermanager-api) in `wdm.properties` or Java System Properties.
+
+### State Transition Diagram
+
+The state transition diagram for the system can be found [here](state-transition-diagram.md).
